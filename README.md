@@ -10,4 +10,4 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I play the guitar, I longboard, and I know way too much about pop culture.
+⚡ Fun facts: I play the guitar, I longboard, and I know way too much about pop culture.

@@ -1,4 +1,4 @@
-### Hi there 👋🏾  I'm Arshiya, and I'm passionate about creating an interdisciplinary impact with machine learning and artificial intelligence!
+### Hi there 👋🏾  I'm Arshiya, and I'm passionate about creating an interdisciplinary impact with artificial intelligence!
 
 <!--
 **arshiyaansari/arshiyaansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

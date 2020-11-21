@@ -8,9 +8,6 @@
 
 🌱 I’m currently learning more on deep neural networks and convolution neural networks for the use case of autonomous systems. 
 
-💬 Ask me about 
-
 😄 Pronouns: she/her
 
-⚡ Fun fact: ...
 

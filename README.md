@@ -9,5 +9,3 @@
 🌱 I'm learning more on deep neural networks and convolution neural networks for the use case of autonomous systems. 
 
 😄 Pronouns: she/her
-
-⚡ Fun facts: I play the guitar, I longboard, and I know way too much about pop culture.
